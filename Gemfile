@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails'
-gem 'whoops'
+gem 'whoops', :github=>'JHanley85/whoops'
 
 group :assets do
   gem 'sass-rails'
